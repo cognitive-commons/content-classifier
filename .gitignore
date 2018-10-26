@@ -6,5 +6,9 @@ include
 *.py[cod]
 pip-selfcheck.json
 
+.idea
+airflow
+.ipynb_checkpoints
+
 # Mac OS X custom attribute files
 .DS_Store
